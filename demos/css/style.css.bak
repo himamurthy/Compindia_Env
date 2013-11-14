@@ -1,0 +1,9 @@
+html,body{
+	width:100%;
+	height:100%;
+	overflow:hidden;
+}
+.mother{
+Text-align:center;
+width:60%;
+}
